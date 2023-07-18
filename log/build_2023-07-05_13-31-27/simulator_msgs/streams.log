@@ -1,0 +1,33 @@
+[3.118s] Invoking command in '/home/vidisha/Titanium/titanium_ws/src/simulator_msgs': PYTHONPATH=/home/vidisha/Titanium/titanium_ws/build/simulator_msgs/prefix_override:/home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/simulator_msgs build --build-base /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build install --record /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/install.log --single-version-externally-managed
+[3.863s] running egg_info
+[3.863s] creating ../../build/simulator_msgs/simulator_msgs.egg-info
+[3.863s] writing ../../build/simulator_msgs/simulator_msgs.egg-info/PKG-INFO
+[3.864s] writing dependency_links to ../../build/simulator_msgs/simulator_msgs.egg-info/dependency_links.txt
+[3.864s] writing entry points to ../../build/simulator_msgs/simulator_msgs.egg-info/entry_points.txt
+[3.864s] writing requirements to ../../build/simulator_msgs/simulator_msgs.egg-info/requires.txt
+[3.864s] writing top-level names to ../../build/simulator_msgs/simulator_msgs.egg-info/top_level.txt
+[3.864s] writing manifest file '../../build/simulator_msgs/simulator_msgs.egg-info/SOURCES.txt'
+[3.902s] reading manifest file '../../build/simulator_msgs/simulator_msgs.egg-info/SOURCES.txt'
+[3.902s] writing manifest file '../../build/simulator_msgs/simulator_msgs.egg-info/SOURCES.txt'
+[3.902s] running build
+[3.902s] running build_py
+[3.903s] creating /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build
+[3.903s] creating /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build/lib
+[3.903s] creating /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build/lib/simulator_msgs
+[3.903s] copying simulator_msgs/__init__.py -> /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build/lib/simulator_msgs
+[3.903s] running install
+[3.905s] running install_lib
+[3.906s] creating /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages/simulator_msgs
+[3.906s] copying /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build/lib/simulator_msgs/__init__.py -> /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages/simulator_msgs
+[3.908s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages/simulator_msgs/__init__.py to __init__.cpython-38.pyc
+[3.909s] running install_data
+[3.910s] creating /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/share/ament_index
+[3.910s] creating /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/share/ament_index/resource_index
+[3.910s] creating /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/share/ament_index/resource_index/packages
+[3.910s] copying resource/simulator_msgs -> /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/share/ament_index/resource_index/packages
+[3.910s] copying package.xml -> /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/share/simulator_msgs
+[3.910s] running install_egg_info
+[3.913s] Copying ../../build/simulator_msgs/simulator_msgs.egg-info to /home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages/simulator_msgs-0.0.0-py3.8.egg-info
+[3.914s] running install_scripts
+[3.940s] writing list of installed files to '/home/vidisha/Titanium/titanium_ws/build/simulator_msgs/install.log'
+[3.959s] Invoked command in '/home/vidisha/Titanium/titanium_ws/src/simulator_msgs' returned '0': PYTHONPATH=/home/vidisha/Titanium/titanium_ws/build/simulator_msgs/prefix_override:/home/vidisha/Titanium/titanium_ws/install/simulator_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/simulator_msgs build --build-base /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/build install --record /home/vidisha/Titanium/titanium_ws/build/simulator_msgs/install.log --single-version-externally-managed

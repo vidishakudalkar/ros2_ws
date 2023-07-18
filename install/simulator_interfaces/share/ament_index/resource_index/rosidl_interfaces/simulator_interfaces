@@ -1,0 +1,6 @@
+msg/PosRot.idl
+msg/PosRot.msg
+msg/TaggedPose.idl
+msg/TaggedPose.msg
+msg/TaggedPoseArray.idl
+msg/TaggedPoseArray.msg

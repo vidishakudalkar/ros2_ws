@@ -1,0 +1,8 @@
+setup.py
+simulator_interfaces/__init__.py
+simulator_interfaces.egg-info/PKG-INFO
+simulator_interfaces.egg-info/SOURCES.txt
+simulator_interfaces.egg-info/dependency_links.txt
+simulator_interfaces.egg-info/top_level.txt
+simulator_interfaces/msg/__init__.py
+simulator_interfaces/msg/_pos_rot.py

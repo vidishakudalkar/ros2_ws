@@ -1,0 +1,69 @@
+[3.210s] Invoking command in '/home/vidisha/Titanium/titanium_ws/src/ROS-TCP-Endpoint': PYTHONPATH=/home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/prefix_override:/home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build install --record /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed
+[3.948s] running egg_info
+[3.948s] creating ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info
+[3.948s] writing ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/PKG-INFO
+[3.948s] writing dependency_links to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/dependency_links.txt
+[3.949s] writing entry points to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/entry_points.txt
+[3.949s] writing requirements to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
+[3.949s] writing top-level names to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
+[3.949s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[3.988s] reading manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[3.989s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[3.989s] running build
+[3.989s] running build_py
+[3.989s] creating /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build
+[3.990s] creating /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib
+[3.990s] creating /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/__init__.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/service.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/tcp_sender.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/default_server_endpoint.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/subscriber.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.990s] copying ros_tcp_endpoint/communication.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.991s] copying ros_tcp_endpoint/exceptions.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.991s] copying ros_tcp_endpoint/server.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.991s] copying ros_tcp_endpoint/publisher.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.991s] copying ros_tcp_endpoint/thread_pauser.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.991s] copying ros_tcp_endpoint/client.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.992s] copying ros_tcp_endpoint/unity_service.py -> /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[3.992s] running install
+[3.994s] running install_lib
+[3.996s] creating /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/__init__.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/service.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/tcp_sender.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/default_server_endpoint.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/subscriber.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.996s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/communication.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/exceptions.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/server.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/publisher.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/thread_pauser.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/client.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.997s] copying /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/unity_service.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[3.998s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/__init__.py to __init__.cpython-38.pyc
+[4.000s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/service.py to service.cpython-38.pyc
+[4.000s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/tcp_sender.py to tcp_sender.cpython-38.pyc
+[4.001s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/default_server_endpoint.py to default_server_endpoint.cpython-38.pyc
+[4.002s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/subscriber.py to subscriber.cpython-38.pyc
+[4.002s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/communication.py to communication.cpython-38.pyc
+[4.002s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/exceptions.py to exceptions.cpython-38.pyc
+[4.002s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/server.py to server.cpython-38.pyc
+[4.004s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/publisher.py to publisher.cpython-38.pyc
+[4.004s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/thread_pauser.py to thread_pauser.cpython-38.pyc
+[4.004s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/client.py to client.cpython-38.pyc
+[4.005s] byte-compiling /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/unity_service.py to unity_service.cpython-38.pyc
+[4.005s] running install_data
+[4.006s] creating /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ament_index
+[4.006s] creating /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ament_index/resource_index
+[4.006s] creating /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[4.006s] copying resource/ros_tcp_endpoint -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[4.006s] copying package.xml -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint
+[4.006s] creating /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[4.006s] copying launch/endpoint.py -> /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[4.007s] running install_egg_info
+[4.009s] Copying ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info to /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint-0.0.1-py3.8.egg-info
+[4.010s] running install_scripts
+[4.041s] Installing default_server_endpoint script to /home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/ros_tcp_endpoint
+[4.042s] writing list of installed files to '/home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/install.log'
+[4.088s] Invoked command in '/home/vidisha/Titanium/titanium_ws/src/ROS-TCP-Endpoint' returned '0': PYTHONPATH=/home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/prefix_override:/home/vidisha/Titanium/titanium_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/build install --record /home/vidisha/Titanium/titanium_ws/build/ros_tcp_endpoint/install.log --install-scripts $base/lib/ros_tcp_endpoint --single-version-externally-managed

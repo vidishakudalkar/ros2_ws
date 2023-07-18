@@ -1,0 +1,8 @@
+{
+  "package_name": "simulator_interfaces",
+  "non_idl_tuples": [
+    "/home/vidisha/Titanium/titanium_ws/src/simulator_interfaces:msg/PosRot.msg",
+    "/home/vidisha/Titanium/titanium_ws/src/simulator_interfaces:msg/TaggedPose.msg",
+    "/home/vidisha/Titanium/titanium_ws/src/simulator_interfaces:msg/TaggedPoseArray.msg"
+  ]
+}
